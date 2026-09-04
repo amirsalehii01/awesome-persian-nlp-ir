@@ -137,7 +137,8 @@
 - [FarsBase](http://farsbase.net/about) -  FarsBase the first Persian multi-source knowledge graph, which isspecifically designed for semantic search engines to support Persian knowledge. FarsBase uses a diverse set of hybrid and flexible techniques to extract and integrate knowledge from various sources, such as Wikipedia, Web tables and unstructured texts. Here is [the relevant paper](http://www.semantic-web-journal.net/system/files/swj2210.pdf). 
 
 ## Intent Detection & Slot filling
-- [Persian-ATIS](https://github.com/Makbari1997/Persian-Atis) - A Persian Benchmark for Joint Intent Detection and Slot Filling 
+- [Persian-ATIS](https://github.com/Makbari1997/Persian-Atis) - A Persian Benchmark for Joint Intent Detection and Slot Filling
+- [Persian-Banking77](https://github.com/amirsalehii01/Persian-Banking77) - A Persian Benchmark for Fine-Grained Intent Detection
 
 ## Paraphrasing
 - [ExaPPC](https://github.com/exaco/exappc) - A Large-Scale Persian Paraphrase Detection Corpus
